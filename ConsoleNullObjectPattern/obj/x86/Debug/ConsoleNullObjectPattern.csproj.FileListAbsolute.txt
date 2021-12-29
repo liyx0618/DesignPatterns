@@ -1,0 +1,5 @@
+F:\work\Work_Stadio\DesignPatterns\ConsoleNullObjectPattern\bin\Debug\ConsoleNullObjectPattern.exe
+F:\work\Work_Stadio\DesignPatterns\ConsoleNullObjectPattern\bin\Debug\ConsoleNullObjectPattern.pdb
+F:\work\Work_Stadio\DesignPatterns\ConsoleNullObjectPattern\obj\x86\Debug\ConsoleNullObjectPattern.csproj.CoreCompileInputs.cache
+F:\work\Work_Stadio\DesignPatterns\ConsoleNullObjectPattern\obj\x86\Debug\ConsoleNullObjectPattern.exe
+F:\work\Work_Stadio\DesignPatterns\ConsoleNullObjectPattern\obj\x86\Debug\ConsoleNullObjectPattern.pdb

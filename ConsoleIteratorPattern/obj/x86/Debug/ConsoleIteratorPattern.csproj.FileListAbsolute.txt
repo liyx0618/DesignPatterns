@@ -1,0 +1,7 @@
+F:\work\Work_Stadio\DesignPatterns\ConsoleIteratorPattern\bin\Debug\ConsoleIteratorPattern.exe.config
+F:\work\Work_Stadio\DesignPatterns\ConsoleIteratorPattern\bin\Debug\ConsoleIteratorPattern.exe
+F:\work\Work_Stadio\DesignPatterns\ConsoleIteratorPattern\bin\Debug\ConsoleIteratorPattern.pdb
+F:\work\Work_Stadio\DesignPatterns\ConsoleIteratorPattern\obj\x86\Debug\ConsoleIteratorPattern.csproj.AssemblyReference.cache
+F:\work\Work_Stadio\DesignPatterns\ConsoleIteratorPattern\obj\x86\Debug\ConsoleIteratorPattern.csproj.CoreCompileInputs.cache
+F:\work\Work_Stadio\DesignPatterns\ConsoleIteratorPattern\obj\x86\Debug\ConsoleIteratorPattern.exe
+F:\work\Work_Stadio\DesignPatterns\ConsoleIteratorPattern\obj\x86\Debug\ConsoleIteratorPattern.pdb

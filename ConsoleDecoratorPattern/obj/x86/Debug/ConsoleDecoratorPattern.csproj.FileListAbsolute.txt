@@ -1,0 +1,6 @@
+F:\work\Work_Stadio\DesignPatterns\ConsoleDecoratorPattern\bin\Debug\ConsoleDecoratorPattern.exe
+F:\work\Work_Stadio\DesignPatterns\ConsoleDecoratorPattern\bin\Debug\ConsoleDecoratorPattern.pdb
+F:\work\Work_Stadio\DesignPatterns\ConsoleDecoratorPattern\obj\x86\Debug\ConsoleDecoratorPattern.csproj.AssemblyReference.cache
+F:\work\Work_Stadio\DesignPatterns\ConsoleDecoratorPattern\obj\x86\Debug\ConsoleDecoratorPattern.csproj.CoreCompileInputs.cache
+F:\work\Work_Stadio\DesignPatterns\ConsoleDecoratorPattern\obj\x86\Debug\ConsoleDecoratorPattern.exe
+F:\work\Work_Stadio\DesignPatterns\ConsoleDecoratorPattern\obj\x86\Debug\ConsoleDecoratorPattern.pdb

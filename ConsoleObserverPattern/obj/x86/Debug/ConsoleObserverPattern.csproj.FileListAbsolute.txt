@@ -1,0 +1,5 @@
+F:\work\Work_Stadio\DesignPatterns\ConsoleObserverPattern\bin\Debug\ConsoleObserverPattern.exe
+F:\work\Work_Stadio\DesignPatterns\ConsoleObserverPattern\bin\Debug\ConsoleObserverPattern.pdb
+F:\work\Work_Stadio\DesignPatterns\ConsoleObserverPattern\obj\x86\Debug\ConsoleObserverPattern.csproj.CoreCompileInputs.cache
+F:\work\Work_Stadio\DesignPatterns\ConsoleObserverPattern\obj\x86\Debug\ConsoleObserverPattern.exe
+F:\work\Work_Stadio\DesignPatterns\ConsoleObserverPattern\obj\x86\Debug\ConsoleObserverPattern.pdb

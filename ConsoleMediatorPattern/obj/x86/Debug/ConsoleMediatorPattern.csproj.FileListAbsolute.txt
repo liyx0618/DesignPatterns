@@ -1,0 +1,5 @@
+F:\work\Work_Stadio\DesignPatterns\ConsoleMediatorPattern\bin\Debug\ConsoleMediatorPattern.exe
+F:\work\Work_Stadio\DesignPatterns\ConsoleMediatorPattern\bin\Debug\ConsoleMediatorPattern.pdb
+F:\work\Work_Stadio\DesignPatterns\ConsoleMediatorPattern\obj\x86\Debug\ConsoleMediatorPattern.csproj.CoreCompileInputs.cache
+F:\work\Work_Stadio\DesignPatterns\ConsoleMediatorPattern\obj\x86\Debug\ConsoleMediatorPattern.exe
+F:\work\Work_Stadio\DesignPatterns\ConsoleMediatorPattern\obj\x86\Debug\ConsoleMediatorPattern.pdb

@@ -1,0 +1,5 @@
+F:\work\Work_Stadio\DesignPatterns\ConsoleStrategyPattern\bin\Debug\ConsoleStrategyPattern.exe
+F:\work\Work_Stadio\DesignPatterns\ConsoleStrategyPattern\bin\Debug\ConsoleStrategyPattern.pdb
+F:\work\Work_Stadio\DesignPatterns\ConsoleStrategyPattern\obj\x86\Debug\ConsoleStrategyPattern.csproj.CoreCompileInputs.cache
+F:\work\Work_Stadio\DesignPatterns\ConsoleStrategyPattern\obj\x86\Debug\ConsoleStrategyPattern.exe
+F:\work\Work_Stadio\DesignPatterns\ConsoleStrategyPattern\obj\x86\Debug\ConsoleStrategyPattern.pdb

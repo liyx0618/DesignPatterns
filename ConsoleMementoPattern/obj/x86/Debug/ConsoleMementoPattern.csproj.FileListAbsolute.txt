@@ -1,0 +1,5 @@
+F:\work\Work_Stadio\DesignPatterns\ConsoleMementoPattern\bin\Debug\ConsoleMementoPattern.exe
+F:\work\Work_Stadio\DesignPatterns\ConsoleMementoPattern\bin\Debug\ConsoleMementoPattern.pdb
+F:\work\Work_Stadio\DesignPatterns\ConsoleMementoPattern\obj\x86\Debug\ConsoleMementoPattern.csproj.CoreCompileInputs.cache
+F:\work\Work_Stadio\DesignPatterns\ConsoleMementoPattern\obj\x86\Debug\ConsoleMementoPattern.exe
+F:\work\Work_Stadio\DesignPatterns\ConsoleMementoPattern\obj\x86\Debug\ConsoleMementoPattern.pdb

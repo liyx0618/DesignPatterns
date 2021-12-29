@@ -1,0 +1,5 @@
+F:\work\Work_Stadio\DesignPatterns\ConsoleFlyweightPattern\bin\Debug\ConsoleFlyweightPattern.exe
+F:\work\Work_Stadio\DesignPatterns\ConsoleFlyweightPattern\bin\Debug\ConsoleFlyweightPattern.pdb
+F:\work\Work_Stadio\DesignPatterns\ConsoleFlyweightPattern\obj\x86\Debug\ConsoleFlyweightPattern.csproj.CoreCompileInputs.cache
+F:\work\Work_Stadio\DesignPatterns\ConsoleFlyweightPattern\obj\x86\Debug\ConsoleFlyweightPattern.exe
+F:\work\Work_Stadio\DesignPatterns\ConsoleFlyweightPattern\obj\x86\Debug\ConsoleFlyweightPattern.pdb

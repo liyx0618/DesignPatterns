@@ -1,0 +1,5 @@
+F:\work\Work_Stadio\DesignPatterns\ConsoleInterceptingFilterPattern\bin\Debug\ConsoleInterceptingFilterPattern.exe
+F:\work\Work_Stadio\DesignPatterns\ConsoleInterceptingFilterPattern\bin\Debug\ConsoleInterceptingFilterPattern.pdb
+F:\work\Work_Stadio\DesignPatterns\ConsoleInterceptingFilterPattern\obj\x86\Debug\ConsoleInterceptingFilterPattern.csproj.CoreCompileInputs.cache
+F:\work\Work_Stadio\DesignPatterns\ConsoleInterceptingFilterPattern\obj\x86\Debug\ConsoleInterceptingFilterPattern.exe
+F:\work\Work_Stadio\DesignPatterns\ConsoleInterceptingFilterPattern\obj\x86\Debug\ConsoleInterceptingFilterPattern.pdb

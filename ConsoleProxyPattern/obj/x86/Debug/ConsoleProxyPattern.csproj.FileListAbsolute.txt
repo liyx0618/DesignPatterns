@@ -1,0 +1,5 @@
+F:\work\Work_Stadio\DesignPatterns\ConsoleProxyPattern\bin\Debug\ConsoleProxyPattern.exe
+F:\work\Work_Stadio\DesignPatterns\ConsoleProxyPattern\bin\Debug\ConsoleProxyPattern.pdb
+F:\work\Work_Stadio\DesignPatterns\ConsoleProxyPattern\obj\x86\Debug\ConsoleProxyPattern.csproj.CoreCompileInputs.cache
+F:\work\Work_Stadio\DesignPatterns\ConsoleProxyPattern\obj\x86\Debug\ConsoleProxyPattern.exe
+F:\work\Work_Stadio\DesignPatterns\ConsoleProxyPattern\obj\x86\Debug\ConsoleProxyPattern.pdb

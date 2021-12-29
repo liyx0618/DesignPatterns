@@ -1,0 +1,5 @@
+F:\work\Work_Stadio\DesignPatterns\ConsoleFacadePattern\bin\Debug\ConsoleFacadePattern.exe
+F:\work\Work_Stadio\DesignPatterns\ConsoleFacadePattern\bin\Debug\ConsoleFacadePattern.pdb
+F:\work\Work_Stadio\DesignPatterns\ConsoleFacadePattern\obj\x86\Debug\ConsoleFacadePattern.csproj.CoreCompileInputs.cache
+F:\work\Work_Stadio\DesignPatterns\ConsoleFacadePattern\obj\x86\Debug\ConsoleFacadePattern.exe
+F:\work\Work_Stadio\DesignPatterns\ConsoleFacadePattern\obj\x86\Debug\ConsoleFacadePattern.pdb

@@ -1,0 +1,6 @@
+F:\work\Work_Stadio\DesignPatterns\ConsoleBuilderPattern\bin\Debug\ConsoleBuilderPattern.exe
+F:\work\Work_Stadio\DesignPatterns\ConsoleBuilderPattern\bin\Debug\ConsoleBuilderPattern.pdb
+F:\work\Work_Stadio\DesignPatterns\ConsoleBuilderPattern\obj\x86\Debug\ConsoleBuilderPattern.csproj.AssemblyReference.cache
+F:\work\Work_Stadio\DesignPatterns\ConsoleBuilderPattern\obj\x86\Debug\ConsoleBuilderPattern.csproj.CoreCompileInputs.cache
+F:\work\Work_Stadio\DesignPatterns\ConsoleBuilderPattern\obj\x86\Debug\ConsoleBuilderPattern.exe
+F:\work\Work_Stadio\DesignPatterns\ConsoleBuilderPattern\obj\x86\Debug\ConsoleBuilderPattern.pdb

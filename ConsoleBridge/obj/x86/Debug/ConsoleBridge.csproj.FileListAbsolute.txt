@@ -1,0 +1,5 @@
+F:\work\Work_Stadio\DesignPatterns\ConsoleBridge\bin\Debug\ConsoleBridge.exe
+F:\work\Work_Stadio\DesignPatterns\ConsoleBridge\bin\Debug\ConsoleBridge.pdb
+F:\work\Work_Stadio\DesignPatterns\ConsoleBridge\obj\x86\Debug\ConsoleBridge.csproj.CoreCompileInputs.cache
+F:\work\Work_Stadio\DesignPatterns\ConsoleBridge\obj\x86\Debug\ConsoleBridge.exe
+F:\work\Work_Stadio\DesignPatterns\ConsoleBridge\obj\x86\Debug\ConsoleBridge.pdb

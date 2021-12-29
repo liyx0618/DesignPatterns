@@ -1,0 +1,6 @@
+F:\work\Work_Stadio\DesignPatterns\ConsoleStatePattern\bin\Debug\ConsoleStatePattern.exe
+F:\work\Work_Stadio\DesignPatterns\ConsoleStatePattern\bin\Debug\ConsoleStatePattern.pdb
+F:\work\Work_Stadio\DesignPatterns\ConsoleStatePattern\obj\x86\Debug\ConsoleStatePattern.csproj.AssemblyReference.cache
+F:\work\Work_Stadio\DesignPatterns\ConsoleStatePattern\obj\x86\Debug\ConsoleStatePattern.csproj.CoreCompileInputs.cache
+F:\work\Work_Stadio\DesignPatterns\ConsoleStatePattern\obj\x86\Debug\ConsoleStatePattern.exe
+F:\work\Work_Stadio\DesignPatterns\ConsoleStatePattern\obj\x86\Debug\ConsoleStatePattern.pdb
